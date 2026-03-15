@@ -10,4 +10,4 @@
 
 | №  | Тема задания                              | Репозиторий                               |
 |----|-------------------------------------------|-------------------------------------------|
-| 1  | Реализация алгоритма поиска с опечатками  | [ASOIU_Pugovkin_HW1](https://github.com/Pugovkin-Miroslav/ASOIU_Pugovkin_HW)   | 
+| 1  | Реализация алгоритма поиска с опечатками  | [ASOIU_Pugovkin_HW1](https://github.com/Pugovkin-Miroslav/ASOIU_Pugovkin_HW1)   | 
